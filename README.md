@@ -6,7 +6,7 @@ A real-time, browser-based fitness application that uses AI to evaluate exercise
 
 ## Demo
 
-[Live Demo](https://your-deployment-url.com) | [Demo Video](https://your-video-url.com)
+[Live Demo]https://chic-stardust-e15fc7.netlify.app/ | [Demo Video](https://your-video-url.com)
 
 ## Features
 
